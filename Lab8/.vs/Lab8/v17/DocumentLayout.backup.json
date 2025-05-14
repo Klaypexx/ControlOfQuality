@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Volgatech\\Quality\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|c:\\code\\volgatech\\quality\\lab8\\shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|solutionrelative:shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|c:\\code\\volgatech\\quality\\lab8\\jsonfiles\\aliasproducttests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|solutionrelative:jsonfiles\\aliasproducttests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|c:\\code\\volgatech\\quality\\lab8\\jsonfiles\\invalidproducttests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|solutionrelative:jsonfiles\\invalidproducttests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|c:\\code\\volgatech\\quality\\lab8\\jsonfiles\\validproducttests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|solutionrelative:jsonfiles\\validproducttests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|c:\\code\\volgatech\\quality\\lab8\\entities\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|solutionrelative:entities\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|c:\\code\\volgatech\\quality\\lab8\\shopapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|solutionrelative:shopapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|c:\\code\\volgatech\\quality\\lab8\\jsonfiles\\apiendpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A09A18F-8FC9-4B1F-A156-7B547C9B8CDE}|Lab8.csproj|solutionrelative:jsonfiles\\apiendpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Code\\Volgatech\\Quality\\Lab8\\Entities\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Entities\\ProductDto.cs",
+              "ToolTip": "C:\\Code\\Volgatech\\Quality\\Lab8\\Entities\\ProductDto.cs",
+              "RelativeToolTip": "Entities\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:24:28.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aliasProductTests.json",
+              "DocumentMoniker": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\aliasProductTests.json",
+              "RelativeDocumentMoniker": "JsonFiles\\aliasProductTests.json",
+              "ToolTip": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\aliasProductTests.json",
+              "RelativeToolTip": "JsonFiles\\aliasProductTests.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T18:09:09.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "apiEndpoints.json",
+              "DocumentMoniker": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\apiEndpoints.json",
+              "RelativeDocumentMoniker": "JsonFiles\\apiEndpoints.json",
+              "ToolTip": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\apiEndpoints.json",
+              "RelativeToolTip": "JsonFiles\\apiEndpoints.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T18:08:41.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "invalidProductTests.json",
+              "DocumentMoniker": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\invalidProductTests.json",
+              "RelativeDocumentMoniker": "JsonFiles\\invalidProductTests.json",
+              "ToolTip": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\invalidProductTests.json",
+              "RelativeToolTip": "JsonFiles\\invalidProductTests.json",
+              "ViewState": "AgIAALQAAAAAAAAAAAAvwMUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T18:04:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "validProductTests.json",
+              "DocumentMoniker": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\validProductTests.json",
+              "RelativeDocumentMoniker": "JsonFiles\\validProductTests.json",
+              "ToolTip": "C:\\Code\\Volgatech\\Quality\\Lab8\\JsonFiles\\validProductTests.json",
+              "RelativeToolTip": "JsonFiles\\validProductTests.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T10:56:25.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopTests.cs",
+              "DocumentMoniker": "C:\\Code\\Volgatech\\Quality\\Lab8\\ShopTests.cs",
+              "RelativeDocumentMoniker": "ShopTests.cs",
+              "ToolTip": "C:\\Code\\Volgatech\\Quality\\Lab8\\ShopTests.cs*",
+              "RelativeToolTip": "ShopTests.cs*",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAANsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:51:35.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopApi.cs",
+              "DocumentMoniker": "C:\\Code\\Volgatech\\Quality\\Lab8\\ShopApi.cs",
+              "RelativeDocumentMoniker": "ShopApi.cs",
+              "ToolTip": "C:\\Code\\Volgatech\\Quality\\Lab8\\ShopApi.cs",
+              "RelativeToolTip": "ShopApi.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:24:46.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

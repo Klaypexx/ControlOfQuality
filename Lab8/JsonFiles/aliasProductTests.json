@@ -1,0 +1,14 @@
+{
+    "validProduct": {
+        "category_id": "10",
+        "title": "Super Unique Test",
+        "content": "This is a test product.",
+        "price": "1",
+        "old_price": "123",
+        "status": "1",
+        "keywords": "test, product",
+        "description": "Test product description",
+        "hit": "1"
+    },
+    "correctAlias": "super-unique-test-0"
+}

@@ -1,0 +1,7 @@
+{
+    "ApiBaseUrl": "http://shop.qatl.ru",
+    "GetProductsEndpoint": "/api/products",
+    "AddProductEndpoint": "/api/addproduct",
+    "RemoveProductEndpoint": "/api/deleteproduct?id=",
+    "EditProductEndpoint": "/api/editproduct"
+}

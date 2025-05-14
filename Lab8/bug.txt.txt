@@ -1,0 +1,88 @@
+Category ID
+Должно входить в промежуток от 1 до 15
+О.Р. При установке значения 15 должен быть успешный ответ с ошибкой
+Ф.Р. Успешный ответ, возвращается id, объект устанавливается в БД
+
+"category_id_above_range": {
+    "category_id": "15",
+    "title": "Invalid Category Id Above Rang1e",
+    "content": "This is a test product.",
+    "price": "100",
+    "old_price": "120",
+    "status": "1",
+    "keywords": "test, product",
+    "description": "Test product description",
+    "hit": "1"
+},
+
+Hit, status
+Должен входить в промежуток от 0 до 1
+О.Р При установке некорректных значаний должен быть успешный ответ с ошибкой
+Ф.Р. Сохранение с неверными значениями
+
+"hit_above_range": {
+    "category_id": "14",
+    "title": "Invalid Hit Above Range",
+    "content": "This is a test product.",
+    "price": "100",
+    "old_price": "120",
+    "status": "1",
+    "keywords": "test, product",
+    "description": "123",
+    "hit": "2"
+},
+"hit_below_range": {
+    "category_id": "14",
+    "title": "Invalid Hit Below Range",
+    "content": "This is a test product.",
+    "price": "100",
+    "old_price": "120",
+    "status": "1",
+    "keywords": "test, product",
+    "description": "123",
+    "hit": "-1"
+},
+"hit_type": {
+    "category_id": "14",
+    "title": "Invalid Hit Type",
+    "content": "This is a test product.",
+    "price": "100",
+    "old_price": "120",
+    "status": "1",
+    "keywords": "test, product",
+    "description": "123",
+    "hit": "eee"
+},
+"status_above_range": {
+    "category_id": "14",
+    "title": "Invalid Status Above Range",
+    "content": "This is a test product.",
+    "price": "100",
+    "old_price": "120",
+    "status": "2",
+    "keywords": "test, product",
+    "description": "123",
+    "hit": "1"
+},
+"status_below_range": {
+    "category_id": "14",
+    "title": "Invalid Status Below Range",
+    "content": "This is a test product.",
+    "price": "100",
+    "old_price": "120",
+    "status": "-1",
+    "keywords": "test, product",
+    "description": "123",
+    "hit": "1"
+},
+"status_type": {
+    "category_id": "14",
+    "title": "Invalid Status Type",
+    "content": "This is a test product.",
+    "price": "100",
+    "old_price": "120",
+    "status": "ewweew",
+    "keywords": "test, product",
+    "description": "123",
+    "hit": "1"
+},
